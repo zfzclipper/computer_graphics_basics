@@ -1,0 +1,36 @@
+Graphics Systems and Models
+
+OpenGL: graphics software system
+raster
+pixel
+frame buffer
+ resolution
+ depth/precision
+  full-color/true-color/RGB-color
+  High-Dynamic-Range
+
+rasterization/scan conversion
+
+input mode
+ request-mode
+ sample-mode
+ event-mode
+  measure process
+  device trigger
+
+image-formation process
+ object
+ viewer
+ light
+  light-reflecting
+  light-source
+
+ray tracing
+
+imaging system
+ pinhole camera
+  projection
+  field/angle of view
+  depth of field
+ human visual system
+
